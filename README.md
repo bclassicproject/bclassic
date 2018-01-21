@@ -1,7 +1,7 @@
 BClassic
 =====================================
 
-[![Build Status](https://travis-ci.org/bclassicproject/bclassic.svg?branch=master)](https://travis-ci.org/bitcoin/bitcoin)
+[![Build Status](https://travis-ci.org/bclassicproject/bclassic.svg?branch=master)](https://travis-ci.org/bclassicproject/bclassic)
 
 https://bitcoincore.org
 
