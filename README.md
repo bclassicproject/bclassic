@@ -1,7 +1,7 @@
-Bitcoin Core integration/staging tree
+BClassic
 =====================================
 
-[![Build Status](https://travis-ci.org/bitcoin/bitcoin.svg?branch=master)](https://travis-ci.org/bitcoin/bitcoin)
+[![Build Status](https://travis-ci.org/bclassicproject/bclassic.svg?branch=master)](https://travis-ci.org/bitcoin/bitcoin)
 
 https://bitcoincore.org
 
